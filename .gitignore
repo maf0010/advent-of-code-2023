@@ -33,3 +33,6 @@
 
 # Build folders
 build/
+
+# Blank cpp starter file
+.blank.cpp
